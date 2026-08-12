@@ -1,0 +1,14 @@
+class Main {
+    public static void main(String[] args) {
+        String E_Name="Vinothini.S";
+        String E_Id="svinothini47@gmail.com";
+        String Roll="Electrical Engineer";
+        long Ph_no=9025772466L;
+        String City="Mettur";
+        System.out.println(E_Name);
+        System.out.println(E_Id);
+        System.out.println(Roll);
+        System.out.println(Ph_no);
+        System.out.println(City);
+    }
+}
