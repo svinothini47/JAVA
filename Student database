@@ -1,0 +1,20 @@
+lass Main {
+    public static void main(String[] args) {
+        String Name="Vinothini.S";
+        String Clg="The Kavery Engineering Collage";
+        long Reg=612723105053L;
+        String Dep="EEE";
+        long Ph_no=9025772466L;
+        int Year=2026;
+        int age=23;
+        float CGPA=9.49f;
+        System.out.println(Name);
+        System.out.println(Clg);
+        System.out.println(Reg);
+        System.out.println(Dep);
+        System.out.println(Ph_no);
+        System.out.println(Year);
+        System.out.println(age);
+        System.out.println(CGPA);
+}
+}
