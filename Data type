@@ -1,0 +1,19 @@
+class Main {
+    public static void main(String[] args) {
+        String Name="Vinothini.S";
+        int a=12;
+        byte age=23;
+        float b=10.2f;
+        double c=15.9875;
+        char d='V';
+        String Name="Megalasri";
+        boolean student=false;
+        System.out.println(a);
+        System.out.println(age);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(Name);
+        System.out.println(student);
+}
+}
