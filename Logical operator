@@ -1,0 +1,17 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    int a=15;
+	    int b=32;
+	    if(a==15&&b==32){
+		System.out.println("True");
+	        
+	    }
+	    if(a==15||b==42){
+		System.out.println("True");
+	    }
+	    if(a!=9){
+		System.out.println("True");
+	    }
+	}	
+}
