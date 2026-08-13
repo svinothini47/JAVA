@@ -1,0 +1,26 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    int a=12;
+	    int b=23;
+	    int c=45;
+	    int d=15;
+	    int e=27;
+	    if(a<b){
+	        System.out.println("a");
+	    }
+	    if(b>d){
+	        System.out.println("b");
+	    }
+	    if(c>=d){
+	        System.out.println("c");
+	    }
+	    if(d<=d){
+	        System.out.println("d");
+	    }
+	    if(d!=c){
+	        System.out.println("d");
+	    }
+	   
+	}
+}
