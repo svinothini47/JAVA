@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    int n=20;
+	    int a=-5;
+	    if(n>0){
+		System.out.println(n+" "+"Number is Positive");
+	        
+	    }
+	    if(a<0){
+		System.out.println(a+" "+"Number is Negative");
+	    }
+	}
+}
